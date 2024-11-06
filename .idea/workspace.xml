@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dfb1e8c-7234-4f62-9709-e1f7a50374ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/platformGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clouds/cloud_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clouds/cloud_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/idle/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/enemy/run/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/idle/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/jump/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/run/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/slide/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/entities/player/wall_slide/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/leaf/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/particle/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/particle/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/particle/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/particles/particle/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/projectile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/decor/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/decor/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/decor/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/decor/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/grass/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/large_decor/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/large_decor/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/large_decor/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/spawners/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/spawners/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiles/stone/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfx/ambience.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfx/dash.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfx/hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfx/jump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfx/shoot.wav" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JackDKillelea"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JackDKillelea/pygame-platformer.git",
+    "accountId": "ea1edd02-b220-4287-aec5-e0dad8e9f00e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oU44gfelv9jMpaeeVe5usFtaXx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.game.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Developement\Python\platformGame\images\clouds" />
+      <recent name="D:\Developement\Python\platformGame\images\entities\enemy\run" />
+      <recent name="D:\Developement\Python\platformGame\images\entities\enemy\idle" />
+      <recent name="D:\Developement\Python\platformGame\images\entities\player\idle" />
+      <recent name="D:\Developement\Python\platformGame\images\entities\player\jump" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dfb1e8c-7234-4f62-9709-e1f7a50374ee" name="Changes" comment="" />
+      <created>1730910630776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730910630776</updated>
+    </task>
+    <servers />
+  </component>
+</project>
